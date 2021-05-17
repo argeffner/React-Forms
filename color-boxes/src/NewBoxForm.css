@@ -1,0 +1,10 @@
+.formDiv {
+    text-align: center;
+  }
+
+  /* not working for some reason */
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
